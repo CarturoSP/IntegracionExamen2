@@ -1,0 +1,16 @@
+ORQUESTACION
+
+DONDE UN ELEMENTO CENTRAL O MAESTRO CONTROLA TODOS LOS ASPECTOS DEL PROCESO
+
+
+COREOGRAFIA
+
+ES DONDE CADA ELEMENTO DEL PROCESO ES AUTONOMO Y CONTROLA SU PROPIA AGENDEA
+
+
+La musica es orquestada, el conductor proporciona el control maestro sobre la orquesta, marca el rito y le indica a cada instrumento sobre cuando unirsele.
+El baile es corografiado, cada bailarin sabe su rol individual y lo ejecuta en respuesta a cada uno de los otros bailarines y en el tiempo designado por la musica
+
+
+
+http://www.plantuml.com/plantuml/uml/XP71JWCX48RlFCMyW2Q-GLtNH1ER66yUnsLAq5sc6GOFchwxRba5tP9ouC3_vV-0sKH5qJID9h0bi3xkENhrx_nf00QUzXmeADm79TdXXpbay8w4tzBC05G73txkkqaIEUOGwfPrd1UA-XqE2kCH68x0JtumPQzKrqx8eTn6JTPZK3hXQpErTA6Uy-qUqPrrFv7xPYN3fRE86q2H5cABAdv88_vtBZ-zvU2uxtA9HSKNZ0HTVvLFYhFh_pxayZN-Dfbgi70nhrClQLBrt9hGwhEDMUuE3TqghZqbRGis56oQnYy0
